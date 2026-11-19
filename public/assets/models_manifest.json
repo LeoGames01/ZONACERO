@@ -1,0 +1,53 @@
+{
+  "version": 1.0,
+  "updatedAt": "2026-11-18T00:00:00.000Z",
+  "models": {
+    "player": null,
+    "npcs": {
+      "ally_chispa": null,
+      "npc_mateo": null
+    },
+    "customCharacters": [],
+    "zombies": [],
+    "weapons": {
+      "rifle": null,
+      "pistol": null
+    },
+    "equipment": {
+      "helmet": null,
+      "vest": null,
+      "bow": null,
+      "arrow": null,
+      "stick": null,
+      "baton": null
+    },
+    "objectOverrides": {}
+  },
+  "attachmentTransforms": {
+    "player": {
+      "helmet": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "vest": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "backpack": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "rifle": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "pistol": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "bow": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "arrow": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "stick": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "baton": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "molotov": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "nail_bomb": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "grenade": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "bottle": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "can": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "brick": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 }
+    },
+    "zombie": {
+      "helmet": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "vest": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "rifle": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "pistol": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 },
+      "baton": { "scale": 1, "scaleX": 1, "scaleY": 1, "scaleZ": 1, "posX": 0, "posY": 0, "posZ": 0, "rotX": 0, "rotY": 0, "rotZ": 0 }
+    },
+    "entities": {}
+  }
+}

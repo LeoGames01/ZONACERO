@@ -1,0 +1,8 @@
+{
+  "name": "Zona cero zombie Buenos Aires",
+  "description": "3D wilderness survival and campfire defense game with IndexedDB .glb character caching and procedural Three.js world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
